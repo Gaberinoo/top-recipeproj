@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.listnone {
+    list-style: none;
+}
+
+.imgresize {
+    height: auto;
+    width: 500px;
+}
+
+.liststyle {
+    list-style: decimal inside;
+}
+
+.recipe-card { 
+    background-color: rgb(248, 199, 199);
+}
